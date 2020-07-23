@@ -153,7 +153,7 @@ dependencies = [
 [[package]]
 name = "rss"
 version = "1.9.0"
-source = "git+https://github.com/simplecastapps/rss#419926b0e34b5faa156e0423b845725ca0bd0169"
+source = "git+https://github.com/simplecastapps/rss#d7f427ebc435e1ecdd0ebd4cb961cdf28eeef428"
 dependencies = [
  "quick-xml",
  "serde",
